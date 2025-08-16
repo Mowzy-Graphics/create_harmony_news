@@ -8,4 +8,24 @@
 - Fixed desync issues with player inventories in multiplayer.
 - Improved mob AI – Zombies are now smarter (and scarier).
 
+🔥 New Features
+- Added Ancient Relics Mod – Discover powerful artifacts hidden in dungeons!
+- Introduced Custom Biomes – Explore new lush forests and frozen wastelands.
+- Enabled Dynamic Seasons – Watch the world change as time passes.
+
+🛠 Fixes & Improvements
+- Optimized server performance to reduce lag spikes.
+- Fixed desync issues with player inventories in multiplayer.
+- Improved mob AI – Zombies are now smarter (and scarier).
+
+🔥 New Features
+- Added Ancient Relics Mod – Discover powerful artifacts hidden in dungeons!
+- Introduced Custom Biomes – Explore new lush forests and frozen wastelands.
+- Enabled Dynamic Seasons – Watch the world change as time passes.
+
+🛠 Fixes & Improvements
+- Optimized server performance to reduce lag spikes.
+- Fixed desync issues with player inventories in multiplayer.
+- Improved mob AI – Zombies are now smarter (and scarier).
+
 ... 
