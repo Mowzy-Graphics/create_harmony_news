@@ -16,5 +16,5 @@
   { "id":115, "date":"2025-12-15", "title":"Holiday Giveaway", "description":"Raffle with rare items, heads, and special cosmetics.", "time":"20:00", "location":"Discord + Server", "type":"giveaway" },
   { "id":116, "date":"2025-12-20", "title":"Special Mega-Raid", "description":"50-player Wither + Warden showdown. Survival-mode only!", "time":"19:00–22:00", "location":"Bedrock Arena", "type":"special" },
   { "id":117, "date":"2025-12-31", "title":"Charity Stream — Wither Marathon", "description":"Raising funds with boss runs and mini-games!", "time":"18:00–22:00", "location":"Server + Twitch", "type":"custom", "color":"#FF7F50" },
-  { "id":118, "date":"2025-11-15", "title":"TEST", "description":"Raising funds with boss runs and mini-games!", "time":"18:00–22:00", "location":"Nowhere", "type":"custom", "color":"#FF7F50" },
+  { "id":118, "date":"2025-11-15", "title":"TEST", "description":"Raising funds with boss runs and mini-games!", "time":"18:00–22:00", "location":"Nowhere", "type":"custom", "color":"#FF7F50" }
 ]
